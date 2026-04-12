@@ -7,10 +7,22 @@ Records of development and implementation results can be found below.
 **LAB DEMO COMPETITION EXPERIMENTAL RESULTS:**
 - Perfect score of 100 on all 3 levels of track in the PiCar simulator
 - Perfect score on the real world track (completed full lap with no errors)
-(image of demo)
+<img width="328" height="209" alt="image" src="https://github.com/user-attachments/assets/a4f1d49b-6aed-4e68-ae32-55fba7bb008c" />
+
 - Score and class ranking not yet released
 
-**IMPLEMENTATION**
+**IMPLEMENTATION & VALIDATION**
+- By lab 5 the dense neural network was able to follow simple lines consistently
+- By lab 6 with the final model, it was able to follow more complex curves, as seen in the demo video
+- For the physical car testing, please see the video at https://www.youtube.com/watch?v=JUabfKyiU3c  
+
+- The PiCar simulator results were very promising, with our personal testing on custom tracks resulting in 100 score on all levels of difficulty
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0b0e4430-2bc1-4b0d-8bf3-d0aa04bd8342" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/eb2e9f1b-a8b9-49d1-a201-549ddd9fd2c2" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/93b97134-4bac-4fec-aa0f-4fcad7ffbeb0" />
+
+- This success extended to demo day with our model getting 100 score on all tracks
+<img width="584" height="381" alt="image" src="https://github.com/user-attachments/assets/ed3c5593-2d88-4aa2-8789-93402c485f04" />
 
 **DEVELOPMENT PROGRESS**
 
