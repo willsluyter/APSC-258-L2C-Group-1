@@ -57,4 +57,6 @@ Lab 6 — CNN Optimization & Final Model
 - Tuned hyperparameters such as filter size, number of layers, and learning rate
 - Evaluated regularization techniques (e.g., Dropout) and selected the best-performing configuration
 - Achieved significantly improved performance in simulation and real-world testing, with reliable autonomous track following.
+<img width="589" height="462" alt="image" src="https://github.com/user-attachments/assets/45478e3b-1dde-4f13-a75a-a774f8481daf" />
+<img width="819" height="602" alt="image" src="https://github.com/user-attachments/assets/1e41c797-f255-475c-ba04-05cdbf9ffa3d" />
 
